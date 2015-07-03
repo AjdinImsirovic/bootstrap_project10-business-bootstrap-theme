@@ -23,6 +23,16 @@ section{
 	padding:60px 0;
 }
 
+.section-title{
+	padding:10px;
+	background:#0383c0;
+	color:#fff;
+}
+
+.section-title small{
+	color:#ccc !important;
+}
+
 .slogan{
 	text-align: center;
 }
@@ -113,6 +123,7 @@ h1,h2,h3{
 	font-size:18px;
 	line-height: 2em;
 }
+
 
 footer{
 	text-align:center;
